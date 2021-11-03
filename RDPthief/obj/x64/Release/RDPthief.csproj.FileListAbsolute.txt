@@ -1,0 +1,6 @@
+D:\code\dount_code\RdpThief\RDPthief\bin\x64\Release\RDPthief.exe
+D:\code\dount_code\RdpThief\RDPthief\bin\x64\Release\RDPthief.pdb
+D:\code\dount_code\RdpThief\RDPthief\obj\x64\Release\RDPthief.csproj.AssemblyReference.cache
+D:\code\dount_code\RdpThief\RDPthief\obj\x64\Release\RDPthief.csproj.CoreCompileInputs.cache
+D:\code\dount_code\RdpThief\RDPthief\obj\x64\Release\RDPthief.exe
+D:\code\dount_code\RdpThief\RDPthief\obj\x64\Release\RDPthief.pdb
