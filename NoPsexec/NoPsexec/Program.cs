@@ -26,7 +26,7 @@ string lpDisplayName);
 lpServiceArgVectors);
         static void Main(string[] args)
         {   
-            String target = "db02"; //计算机名称
+            String target = "db02"; //computername
 
             IntPtr SCMHandle = OpenSCManager(target, null, 0xF003F);
             string ServiceName = "SensorService";
