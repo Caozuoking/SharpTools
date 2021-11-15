@@ -1,0 +1,7 @@
+D:\code\Sharp\NoPsexec\NoPsexec\NoPsexec\bin\x64\Release\NoPsexec.exe
+D:\code\Sharp\NoPsexec\NoPsexec\NoPsexec\bin\x64\Release\NoPsexec.pdb
+D:\code\Sharp\NoPsexec\NoPsexec\NoPsexec\obj\x64\Release\NoPsexec.csproj.AssemblyReference.cache
+D:\code\Sharp\NoPsexec\NoPsexec\NoPsexec\obj\x64\Release\NoPsexec.csproj.CoreCompileInputs.cache
+D:\code\Sharp\NoPsexec\NoPsexec\NoPsexec\obj\x64\Release\NoPsexec.exe
+D:\code\Sharp\NoPsexec\NoPsexec\NoPsexec\obj\x64\Release\NoPsexec.pdb
+D:\code\Sharp\NoPsexec\NoPsexec\NoPsexec\bin\x64\Release\NoPsexec.exe.config
